@@ -3,9 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HW_Java_Essential.iml" filepath="$PROJECT_DIR$/HW_Java_Essential.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/_001_OOP/_001_OOP.iml" filepath="$PROJECT_DIR$/_001_OOP/_001_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/_002_Class_and_Object/_002_Class_and_Object.iml" filepath="$PROJECT_DIR$/_002_Class_and_Object/_002_Class_and_Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/_003_Inheritance_and_Polymorphism/_003_Inheritance_and_Polymorphism.iml" filepath="$PROJECT_DIR$/_003_Inheritance_and_Polymorphism/_003_Inheritance_and_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_004_Abstractions/_004_Abstractions.iml" filepath="$PROJECT_DIR$/_004_Abstractions/_004_Abstractions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_005_Lists/_005_Lists.iml" filepath="$PROJECT_DIR$/_005_Lists/_005_Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_006_Static_and_Nested_Classes_Anonymous_class_and_Enums/_006_Static_and_Nested_Classes_Anonymous_class_and_Enums.iml" filepath="$PROJECT_DIR$/_006_Static_and_Nested_Classes_Anonymous_class_and_Enums/_006_Static_and_Nested_Classes_Anonymous_class_and_Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_007_Exceptyions/_007_Exceptyions.iml" filepath="$PROJECT_DIR$/_007_Exceptyions/_007_Exceptyions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_008_Class_Object/_008_Class_Object.iml" filepath="$PROJECT_DIR$/_008_Class_Object/_008_Class_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_009_Generics/_009_Generics.iml" filepath="$PROJECT_DIR$/_009_Generics/_009_Generics.iml" />
     </modules>
   </component>
 </project>
